@@ -1,0 +1,24 @@
+#header{
+    background-color: blanchedalmond;
+    text-align: center;
+    color: rgb(222, 143, 23);
+    padding: 15px;
+    font-size: x-large;
+}
+
+#Menus{
+    background-color: rgb(227, 173, 91);
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+}
+nav a{
+    text-decoration: none;
+    margin: 0.5;
+}
+#card{
+    width: 70%;
+    background-color: rgb(240, 185, 102);
+    text-align: center;
+    margin-left: 250px;
+}

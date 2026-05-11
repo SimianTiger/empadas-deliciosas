@@ -1,0 +1,15 @@
+#titulo{
+    background-color: rgb(238, 201, 156);
+    color: rgb(176, 107, 22);
+    text-align: center;
+    padding: 10px;
+}
+
+#menu a{
+    background-color: rgb(238, 201, 156);
+    text-align: center;
+    padding: 4px;
+}
+#menu a{
+    text-decoration: none;
+}
